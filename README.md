@@ -1,1 +1,6 @@
-# Jogos_C
+<h1>Jogos interativos: Perguntas e Respostas e Cobra na caixa</h1>
+O projeto foi desenvolvido na linguagem C e apresenta principalmente estruturas e laços de repetição para o desenvolvimento da lógica do trabalho. Ele consiste em dois jogos: Perguntas e respostas e Cobra na caixa, o usuário recebe as duas opções ao entrar na aplicação e deve escolher um para começar a jogar, a opção de sair do >programa também aparece, apesar de não ser muito utilizada no começo. Escolhendo o primeiro jogo por exemplo, o usuário é apresentado à cinco perguntas sobre conhecimentos gerais, a cada pergunta respondida, o usuário recebe um feedback se acertou ou não a pergunta, se ele errou, a resposta correta aparece prontamente abaixo da pergunta respondida, e ao final, é mostrado o ranking da quantidade de respostas certas que o usuário obteve ao decorrer do jogo.
+
+A segunda opção que o usuário tem é o jogo na cobra da caixa, onde ao escolher, ele é orientado a colocar o “Nick” ou nome dele, além de introduzir também o nome do seu adversário(O usuário pode jogar tanto contra ele mesmo, quanto contra um amigo que está no mesmo lugar que ele). Ao começar o jogo, os jogadores têm a opção de escolher do número 1 ao 5, cada número escolhido corresponde a uma caixa, que pode estar vazia ou com uma cobra venenosa dentro, a pessoa que escolher o número correspondente à caixa correspondente à cobra venenosa perde, e o outro jogador, que apenas tinha escolhido caixas vazias, conquista a vitória. 
+
+>Os integrantes do grupo são Lino Neto e Lucas Fidalgo.
